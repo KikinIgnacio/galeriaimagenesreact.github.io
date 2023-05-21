@@ -1,0 +1,14 @@
+.texto {
+    color: dimgrey;
+    text-decoration: underline;
+    background-color: khaki;
+    border-radius: 20%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    
+}
+
+.contenedor-texto{
+    display: flex;
+    justify-content: center;
+    
+}

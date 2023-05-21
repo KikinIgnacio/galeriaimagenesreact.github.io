@@ -1,0 +1,22 @@
+.contenedor-tarjeta {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+
+.tarjeta {
+    
+    border: solid 1px black;
+    background-color: floralwhite;
+}
+
+.tarjeta p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.icono{
+    border-radius: 5%;
+}
